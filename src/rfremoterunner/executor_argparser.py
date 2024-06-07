@@ -1,7 +1,7 @@
 import argparse
 import os
 
-ROBOT_RUN_ARGS = ['loglevel', 'include', 'test', 'exclude', 'suite', 'extension']
+ROBOT_RUN_ARGS = ['loglevel', 'include', 'test', 'exclude', 'suite', 'extension', 'listener']
 
 
 class ExecutorArgumentParser:
